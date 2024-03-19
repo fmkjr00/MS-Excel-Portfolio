@@ -3,7 +3,7 @@ These are the excel reports I created as part of my Data Analysis bootcamp at Co
 
 *Project objective:*
 
-    **1.** Create a sales analytics report focusing on the netsales of the organisation.   (https://github.com/fmkjr00/MS-Excel-Portfolio/blob/main/AtliQ%20Sales%20Analytics.pdf) 
+    **1.** Create a sales analytics report focusing on the netsales of the organisation through different distributors.   (https://github.com/fmkjr00/MS-Excel-Portfolio/blob/main/AtliQ%20Sales%20Analytics.pdf) 
 
     **2.** Conduct a sales market report containing comprehensive analysis of the market performance in different regions.(https://github.com/fmkjr00/MS-Excel-Portfolio/blob/main/AtliQ%20Sales%20Market%20report.pdf)
     
