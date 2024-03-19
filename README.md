@@ -3,9 +3,11 @@ These are the excel reports I created as part of my Data Analysis bootcamp at Co
 
 *Project objective:*
 
-    **1.** Create a sales analytics report focusing on the netsales of the organisation.(https://github.com/fmkjr00/MS-Excel-Portfolio/blob/main/AtliQ%20Sales%20Analytics.pdf) 
+    **1.** Create a sales analytics report focusing on the netsales of the organisation.   (https://github.com/fmkjr00/MS-Excel-Portfolio/blob/main/AtliQ%20Sales%20Analytics.pdf) 
 
     **2.** Conduct a sales market report containing comprehensive analysis of the market performance in different regions.(https://github.com/fmkjr00/MS-Excel-Portfolio/blob/main/AtliQ%20Sales%20Market%20report.pdf)
+    
+    **3.** Conduct a Properties Performance report containing comprehensive analysis of the performance of different properties in terms of revenue generated.  ([https://github.com/fmkjr00/MS-Excel-Portfolio/blob/main/AtliQ%20Sales%20Market%20report.pdf](https://github.com/fmkjr00/MS-Excel-Portfolio/blob/main/Properties%20Performance%20report.pdf))
 
 - **Purpose of sales analytics:** Empower businesses to monitor and evaluate their sales activities and performance.
 
